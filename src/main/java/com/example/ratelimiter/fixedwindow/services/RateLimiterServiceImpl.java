@@ -1,4 +1,4 @@
-package com.example.ratelimiter.services;
+package com.example.ratelimiter.fixedwindow.services;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

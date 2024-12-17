@@ -1,7 +1,7 @@
-package com.example.ratelimiter.configuration;
+package com.example.ratelimiter.fixedwindow.configuration;
 
-import com.example.ratelimiter.services.RateLimiter;
-import com.example.ratelimiter.services.RateLimiterServiceImpl;
+import com.example.ratelimiter.fixedwindow.services.RateLimiter;
+import com.example.ratelimiter.fixedwindow.services.RateLimiterServiceImpl;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.stereotype.Component;

@@ -1,6 +1,6 @@
-package com.example.ratelimiter.controller;
+package com.example.ratelimiter.fixedwindow.controller;
 
-import com.example.ratelimiter.services.RateLimiter;
+import com.example.ratelimiter.fixedwindow.services.RateLimiter;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

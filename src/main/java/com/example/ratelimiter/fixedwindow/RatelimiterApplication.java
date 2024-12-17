@@ -1,4 +1,4 @@
-package com.example.ratelimiter;
+package com.example.ratelimiter.fixedwindow;
 
 //import com.example.ratelimiter.filter.RateLimiterFilter;
 import org.springframework.boot.SpringApplication;

@@ -1,4 +1,4 @@
-package com.example.ratelimiter.services;
+package com.example.ratelimiter.fixedwindow.services;
 
 public interface RateLimiter {
 
